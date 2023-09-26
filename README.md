@@ -3,8 +3,6 @@
 
 • 🔭 I’m currently working on my BS in Computer Science
 
-<br>
-
 • 🌱 I’m currently learning C, Java, and Python
 
 • 📫 How to reach me **nicolas.ruth06@gmail.com**
